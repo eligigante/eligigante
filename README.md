@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eligigante&label=Profile%20views&color=0e75b6&style=flat" alt="eligigante" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  Hello, all! I am Eli. I currently a student from the Philippines pursuing a bachelors degree in information technology. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
