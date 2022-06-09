@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eligigante&label=Profile%20views&color=0e75b6&style=flat" alt="eligigante" /> </p>
 
-<p style="font-size:14px" align="left">
+<p style="font-size:20px" align="left">
   Hello, all! I am Eli. I currently a student from the Philippines pursuing a bachelors degree in information technology. 
 </p>
 
