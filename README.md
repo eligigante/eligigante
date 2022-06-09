@@ -1,6 +1,6 @@
-<h1 align="left">Hello, I'm Elijah Gigante!👋</h1>
+<h1 align="left">Hello! I'm Elijah Gigante 👋</h1>
 
-Hello, I'm **Eli**, an aspiring developer from the **Philippines**.
+Hello! I'm **Eli**, an aspiring developer from the **Philippines**.
 
 An amenable and curious individual in the field of technology, who strives to teach himself to look the beauty of everything. To look in the beauty in the faces of the people and to be grateful. And I would bring this aspect as a **developer** to see situations with a silver lining, and to assess where I could give something, where I could provide something as a creator. And this I think if I could teach also people to be grateful, we could have an amazing world where negativity could not grow and foster and individuals would have a smile on their face. 
 
