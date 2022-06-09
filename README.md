@@ -1,7 +1,5 @@
 <h1 align="left">Hello, I'm Elijah Gigante!👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eligigante&label=Profile%20views&color=0e75b6&style=flat" alt="eligigante" /> </p>
-
 Hello, I'm **Eli**! I am currently a student from the **Philippines** pursuing a bachelors degree in information technology.
 
 <h3 align="left">Languages and Tools:</h3>
