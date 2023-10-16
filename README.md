@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Elijah Gigante👋</h1>
+<h1 align="left">Hello! I'm Eli👋</h1>
 
 Hello! I'm **Eli**, an aspiring **QA Engineer** from the Philippines.
 
