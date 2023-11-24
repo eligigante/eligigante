@@ -1,4 +1,4 @@
-<h1 align="left">An Aspiring <b>QA Engineer</b></h1>
+<h1 align="left">An Aspiring QA Engineer</h1>
 
 <!-- Hello! I'm **Eli**, an aspiring **QA Engineer** from the Philippines.
 
